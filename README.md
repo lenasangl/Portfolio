@@ -17,3 +17,6 @@ Mein Portfolio umfasst verschiedene kreative Disziplinen:
   Kreative Experimente und persönliche Projekte
 
 Dieses Portfolio zeigt vor allem kreative Designprojekte. Wenn Sie sich für meine programmiertechnischen Arbeiten interessieren, finden Sie diese in meinen weiteren Repositories.
+
+
+https://www.figma.com/proto/gH5h2hGp0uSnrSZaE8mdlp/Untitled?node-id=166-14&t=oN8hGcv2BKHpUy0I-1
